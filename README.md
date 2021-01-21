@@ -4,8 +4,6 @@ Modeling examples for Canadian demonstration.
 
 ## References
 
-# Canada Pre-Meeting Notes
-
 - Geocoding
 	- [ArcGIS.Geocoding module](https://developers.arcgis.com/python/api-reference/arcgis.geocoding.html)
 	- [GeoAccessor.from_df method](https://developers.arcgis.com/python/api-reference/arcgis.features.toc.html#arcgis.features.GeoAccessor.from_df)
