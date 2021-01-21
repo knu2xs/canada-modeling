@@ -2,7 +2,21 @@
 
 Modeling examples for Canadian demonstration.
 
-## Getting Started
+## References
+
+# Canada Pre-Meeting Notes
+
+- Geocoding
+	- [ArcGIS.Geocoding module](https://developers.arcgis.com/python/api-reference/arcgis.geocoding.html)
+	- [GeoAccessor.from_df method](https://developers.arcgis.com/python/api-reference/arcgis.features.toc.html#arcgis.features.GeoAccessor.from_df)
+- GeoEnrichment
+	- [ArcGIS.Geoenrichment module](https://developers.arcgis.com/python/api-reference/arcgis.geoenrichment.html)
+	- [Demographic Modeling's enrich accessor method](https://knu2xs.github.io/demographic-modeling-module/dm.html#dm.DemographicModeling.enrich)
+- Transportation Network Analysis
+	- [Origin-Destination - ODCostMatrixLayer](https://developers.arcgis.com/python/api-reference/arcgis.network.toc.html#odcostmatrixlayer)
+	- [Isochromes - ServiceAreaLayer](https://developers.arcgis.com/python/api-reference/arcgis.network.toc.html#servicearealayer)
+- Places of Interest (Businesses)
+	- [Demographic Modeling's Business object](https://knu2xs.github.io/demographic-modeling-module/dm.html#dm.Business)
 
 ## Project Organization
 ------------
