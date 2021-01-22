@@ -11,6 +11,7 @@ Modeling examples for Canadian demonstration. All the notebooks I showed are in 
  - [GeoAI-Cookiecutter](https://github.com/esri/geoai-cookiecutter) - not discussed in the meeting, but what I used to build this whole project and just about every other project I work on...
 
 ### Topical References
+
 - Geocoding
 	- [ArcGIS.Geocoding module](https://developers.arcgis.com/python/api-reference/arcgis.geocoding.html)
 	- [GeoAccessor.from_df method](https://developers.arcgis.com/python/api-reference/arcgis.features.toc.html#arcgis.features.GeoAccessor.from_df)
@@ -28,6 +29,7 @@ Modeling examples for Canadian demonstration. All the notebooks I showed are in 
     - [Creating a New Python Toolbox](https://pro.arcgis.com/en/pro-app/latest/arcpy/geoprocessing_and_python/creating-a-new-python-toolbox.htm) - start of the detailed docs on this
 
 ### Published Vancouver Examples
+
     - Vancouver Web Map
         - [Item in ArcGIS Online](https://arcgis.com/home/item.html?id=0094d39e499444f8b5d65f504f5235cf)
         - [Direct Link to Interactive Web Map](https://arcgis.com/apps/mapviewer/index.html?webmap=0094d39e499444f8b5d65f504f5235cf)
