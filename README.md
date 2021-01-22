@@ -27,15 +27,15 @@ Modeling examples for Canadian demonstration. All the notebooks I showed are in 
 - ArcGIS Python Toolbox
     - [What is a Python Toolbox](https://pro.arcgis.com/en/pro-app/latest/arcpy/geoprocessing_and_python/a-quick-tour-of-python-toolboxes.htm)
     - [Creating a New Python Toolbox](https://pro.arcgis.com/en/pro-app/latest/arcpy/geoprocessing_and_python/creating-a-new-python-toolbox.htm) - start of the detailed docs on this
-
+    
 ### Published Vancouver Examples
 
-    - Vancouver Web Map
-        - [Item in ArcGIS Online](https://arcgis.com/home/item.html?id=0094d39e499444f8b5d65f504f5235cf)
-        - [Direct Link to Interactive Web Map](https://arcgis.com/apps/mapviewer/index.html?webmap=0094d39e499444f8b5d65f504f5235cf)
-    - Vancouver Web Application
-        - [Item in ArcGIS Online](https://arcgis.com/home/item.html?id=0d4047b980a64026a6fbb7510565497a)
-        - [Direct Link to Interactive Application](https://arcgis.com/apps/View/index.html?appid=0d4047b980a64026a6fbb7510565497a)
+- Vancouver Web Map
+    - [Item in ArcGIS Online](https://arcgis.com/home/item.html?id=0094d39e499444f8b5d65f504f5235cf)
+    - [Direct Link to Interactive Web Map](https://arcgis.com/apps/mapviewer/index.html?webmap=0094d39e499444f8b5d65f504f5235cf)
+- Vancouver Web Application
+    - [Item in ArcGIS Online](https://arcgis.com/home/item.html?id=0d4047b980a64026a6fbb7510565497a)
+    - [Direct Link to Interactive Application](https://arcgis.com/apps/View/index.html?appid=0d4047b980a64026a6fbb7510565497a)
 
 ## Project Organization
 ------------
