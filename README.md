@@ -38,7 +38,6 @@ Modeling examples for Canadian demonstration. All the notebooks I showed are in 
     - [Direct Link to Interactive Application](https://arcgis.com/apps/View/index.html?appid=0d4047b980a64026a6fbb7510565497a)
 
 ## Project Organization
-------------
 ```
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data`
