@@ -1,4 +1,4 @@
-# canada-modeling
+# Canada-Modeling
 
 Modeling examples for Canadian demonstration. All the notebooks I showed are in the ./notebooks directory.
 
